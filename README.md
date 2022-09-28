@@ -32,7 +32,7 @@ Learning_rate = 5e-5                             学习率。
 python train.py
 ```
 ## Test
-Under the test() function, num_ IMG is to select and generate several pictures.在test()函数下，num_img是选择生成几张图片。
+在test()函数下，gen_image_num是选择生成几张图片。Under the test() function, gen_ image_ Num is the option to generate several pictures.
 ```bash
 python test.py
 ```
